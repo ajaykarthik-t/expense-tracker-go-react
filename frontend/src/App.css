@@ -1,0 +1,40 @@
+/* .Navbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+
+}
+
+.Navbar ul{
+  display: flex;
+  gap: 2rem;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+} */
+
+/* .Navbar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+
+}
+
+.Navbar ul{
+  background-color : #007bff;
+  color: aliceblue;
+  font-size: 1rem;
+  font-weight: bold;
+  width: fit-content;
+  display: flex;
+  gap: 2rem;
+  padding: 1rem;
+  border-radius: 50px;
+} */
